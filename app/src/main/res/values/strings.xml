@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="none_roll_description">¯\_(ツ)_/¯</string>
+</resources>
